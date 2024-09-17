@@ -18,6 +18,12 @@
 /* Old Windows titlebar - remove this @import if you wish to use default titlebar */
 @import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
 
+/* import squared theme, i like it more */
+@import url("https://github.com/MiniDiscordThemes/Squared/releases/latest/download/Squared.theme.css");
+
+/* import modern indicators, may or may not work */
+@import url("https://discord-extensions.github.io/modern-indicators/src/source.css");
+
 :root {
   /* Background image variables */
   --background-image: url('https://raw.githubusercontent.com/Jan64X/vesktop-dotfiles/main/helloworld.png'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
